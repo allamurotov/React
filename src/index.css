@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body{
+    background-color: #202020;
+    padding-top: 20px;
+    padding-left: 34px;
+    padding-right: 32px;
+}
